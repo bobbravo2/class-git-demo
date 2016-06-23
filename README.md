@@ -1,1 +1,1 @@
-# class-git-demo
+# Hello, Class!
